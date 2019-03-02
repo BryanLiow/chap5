@@ -4,10 +4,10 @@
     <h1>Menu</h1>
     <ul>
         <li>
-            <a href="product_manager">Product Manager</a>
+            <a href="player_manager">Players</a>
         </li>
         <li>
-            <a href="product_catalog">Product Catalog</a>
+            <a href="tournament">Tournaments</a>
         </li>
     </ul>
 </main>
